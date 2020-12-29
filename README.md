@@ -8,6 +8,8 @@ My experiences include
 
 <a href="https://www.linkedin.com/in/soyeon-j"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/soytakingpics/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+
   <img align="left" alt="⚡Soyeon Jang's GitHub Stats⚡" src="https://github-readme-stats.soyeonjangg.vercel.app/api?username=soyeonjangg&show_icons=true&hide_border=true"/>
   
 <!--
