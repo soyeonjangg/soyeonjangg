@@ -7,10 +7,10 @@ My experiences include
 
 Check out my [linkedin](https://www.linkedin.com/in/soyeon-j) profile and connect with me today!
 
-<details>
-  :zap: GitHub Stats
+
+<summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Soyeon Jang's GitHub Stats" src="https://github-readme-stats.soyeonjangg.vercel.app/api?username=soyeonjangg&show_icons=true&hide_border=true"/>
-  </details>
+  
 <!--
 
 Here are some ideas to get you started:
