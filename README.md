@@ -9,7 +9,7 @@ Check out my [linkedin](https://www.linkedin.com/in/soyeon-j) profile and connec
 
 
 
-  <img align="left" alt="Soyeon Jang's GitHub Stats:zap:" src="https://github-readme-stats.soyeonjangg.vercel.app/api?username=soyeonjangg&show_icons=true&hide_border=true"/>
+  <img align="left" alt="⚡Soyeon Jang's GitHub Stats⚡" src="https://github-readme-stats.soyeonjangg.vercel.app/api?username=soyeonjangg&show_icons=true&hide_border=true"/>
   
 <!--
 
