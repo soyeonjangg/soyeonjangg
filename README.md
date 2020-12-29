@@ -3,7 +3,7 @@
 I'm a sophomore at University of Waterloo pursuing Bachelor in Honours Mathematics, [Statistics](https://uwaterloo.ca/statistics-and-actuarial-science/).
 
 My experiences include
-- Software Developer Co-op @[Teranet Inc CMS](https://www.teranet.ca/collateral-management-solutions/)
+- Software Developer Co-op @[Teranet Inc. CMS](https://www.teranet.ca/collateral-management-solutions/) Sept 2020 - Dec 2020
 
 Check out my [linkedin](https://www.linkedin.com/in/soyeon-j) profile and connect with me today!
 
