@@ -8,7 +8,7 @@ My experiences include
 Check out my [linkedin](https://www.linkedin.com/in/soyeon-j) profile and connect with me today!
 
 
-<summary>:zap: GitHub Stats</summary>
+<h3>:zap: GitHub Stats</h3>
   <img align="left" alt="Soyeon Jang's GitHub Stats" src="https://github-readme-stats.soyeonjangg.vercel.app/api?username=soyeonjangg&show_icons=true&hide_border=true"/>
   
 <!--
