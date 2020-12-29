@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi there I'm Soyeon Jang! 👋
+
+I'm a sophomore at University of Waterloo pursuing Bachelor in Honours Mathematics, [Statistics](https://uwaterloo.ca/statistics-and-actuarial-science/).
+
+My experiences include
+- Software Developer Co-op @[Teranet Inc CMS](https://www.teranet.ca/collateral-management-solutions/)
+
+Check out my [linkedin](https://www.linkedin.com/in/soyeon-j) profile and connect with me today!
 
 <!--
-**soyeonjangg/soyeonjangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
