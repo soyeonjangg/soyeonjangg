@@ -1,6 +1,6 @@
 ### Hi there I'm Soyeon Jang! 👋
 
-I'm a sophomore at the University of Waterloo pursuing Bachelor in Honours Mathematics, [Statistics](https://uwaterloo.ca/statistics-and-actuarial-science/).
+I'm a junior at the University of Waterloo pursuing Bachelor in Honours Mathematics, [Statistics](https://uwaterloo.ca/statistics-and-actuarial-science/).
 
 My experiences include
 - Software Developer Co-op @[Teranet Inc. CMS](https://www.teranet.ca/collateral-management-solutions/) Sept 2020 - Dec 2020
